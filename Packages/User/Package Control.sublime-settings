@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Case Conversion",
+		"ConvertToUTF8",
+		"Emmet",
+		"FileDiffs",
+		"Indent XML",
+		"LiveReload",
+		"Markdown Preview",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Monokai Extended",
+		"Package Control",
+		"Table Editor"
+	]
+}
